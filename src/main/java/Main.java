@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * Clase principal que permite calcular el costo total de un viaje de
- * vacaciones.
+ * vacaciones. XOXO
  */
 public class Main {
 
